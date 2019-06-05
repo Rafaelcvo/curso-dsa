@@ -1,1 +1,1 @@
-# curso-dsa
+# Treinamento no curso da DSA
